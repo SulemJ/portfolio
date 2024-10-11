@@ -13,7 +13,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 7 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p6.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p6.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">World capital's Quiz Game. </p>
               <div class="icons ">
@@ -29,7 +29,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
               <div class="btn-group">
                 </div>
-                <a href="/pics/p6.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p6.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -37,7 +37,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 8 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p7.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p7.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text"> Family Travel Tracker Clone. </p>
               <div class="icons ">
@@ -53,7 +53,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p7.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p7.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 9 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p8.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p8.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A clone To Do List Tracker. </p>
               <div class="icons ">
@@ -77,7 +77,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p8.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p8.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@ function LProject (params) {
      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
        <div class="col">
        <div class="card shadow-sm">
-          <img src="/pics/p10.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p10.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">QR code generator. </p>
               <div class="icons ">
@@ -117,7 +117,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 2 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p1.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p1.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">Web Design Agency front page. </p>
               <div class="icons">
@@ -129,7 +129,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p1.png" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p1.png" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -137,7 +137,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 3 --> */}
          <div class="card shadow-sm pb-2">
-          <img src="/pics/p2.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p2.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A clone of <i>Piet Mondrian's</i> $50.6M painting.</p>
               <div class="icons pb-1">
@@ -149,7 +149,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p2.png" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p2.png" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -167,7 +167,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 4 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p3.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p3.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text"> A clone of Tinder for Dogs. </p>
              <div class="icons">
@@ -181,7 +181,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p3.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p3.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -189,7 +189,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 5 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p4.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p4.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A clone of Random Dice game. </p>
               <div class="icons ">
@@ -202,7 +202,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p4.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p4.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -210,7 +210,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 6 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p5.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p5.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A clone of <i>simon Game-</i> of lights and sounds.</p>
               <div class="icons ">
@@ -224,7 +224,7 @@ function LProject (params) {
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
-                <a href="/pics/p5.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p5.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -239,7 +239,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 7 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p9.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p9.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A clone Note keeper App. </p>
               <div class="icons ">
@@ -253,14 +253,14 @@ function LProject (params) {
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group"></div>
-                <a href="/pics/p9.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>          
+                <a href="pics/p9.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>          
               </div>
             </div>
           </div>
           </div>
           <div class="col">
           <div class="card shadow-sm">
-          <img src="/pics/p11.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p11.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A Drum 🥁 Kit app. </p>
               <div class="icons ">
@@ -273,14 +273,14 @@ function LProject (params) {
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group"></div>
-                <a href="/pics/p11.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p11.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
           </div>
           <div class="col ">
           <div class="card shadow-sm">
-          <img src="/pics/p12.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p12.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text"> Random Secret App</p>
               <div class="icons p-0 m-0">
@@ -295,7 +295,7 @@ function LProject (params) {
               
               <div class="d-flex justify-content-between align-items-center p-0">
                 <div class="btn-group"></div>
-                <a href="/pics/p12.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p12.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
               </div>
             </div>
           </div>
@@ -309,7 +309,7 @@ function LProject (params) {
        <div class="col">
          {/* <!-- Card 7 --> */}
          <div class="card shadow-sm">
-          <img src="/pics/p13.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/p13.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">Random Band name Generator </p>
               <div class="icons ">
@@ -322,7 +322,7 @@ function LProject (params) {
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group"></div>
-                <a href="/pics/p13.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
+                <a href="pics/p13.mp4" target="_blank"> <button type="button"  class="btn btn-lg btn-outline-secondary ">View Demo</button></a>
                
               </div>
             </div>
