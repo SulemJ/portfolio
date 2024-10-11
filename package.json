@@ -1,7 +1,6 @@
 {
   "name": "my-react-app",
-  "private": true,
-  "homepage": "https://SulemJ.github.io/portfolio/",
+  "homepage": "https://sulemj.github.io/portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
