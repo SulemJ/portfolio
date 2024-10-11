@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "private": false,
   "homepage": "https://sulemj.github.io/portfolio/",
   "version": "0.0.0",
   "type": "module",
