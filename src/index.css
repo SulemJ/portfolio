@@ -120,12 +120,12 @@ text-decoration: none;
   height:160px;
 }
 }
-@media (min-width: 320px) and (max-width: 719px) {
+@media (min-width: 370px) and (max-width: 719px) {
 .up > img{
   width:48px;
   height:60px;
 }}
-@media (max-width: 319px){
+@media (max-width: 369px){
   .up > img{
     width:25px;
     height:30px;
