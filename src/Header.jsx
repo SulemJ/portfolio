@@ -11,7 +11,7 @@ function Header(params) {
     <nav class="navbar justify-content-center navbar-expand-lg   pt-1 pb-1  border-top ">
       <div class="container-fluid ">
         <a href="/" class=" d-flex align-items-center mb-3 mb-md-0 me-md-auto  link-body-emphasis text-decoration-none">      
-          <img src="/pics/s1.svg" alt="s." width={100} />
+          <img src="pics/s1.svg" alt="s." width={100} />
         </a>
         <button class="navbar-toggler  " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon "></span>

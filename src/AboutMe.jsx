@@ -35,11 +35,11 @@ function About() {
 
                                         <i class="fab devicon-express-original "></i>
                         
-                                        <img src="/pics/ejs.svg"   width="50" height="60" alt="" class="mb-4 pb-2 i" />
+                                        <img src="pics/ejs.svg"   width="50" height="60" alt="" class="mb-4 pb-2 i" />
 
                                         <i class="fab devicon-postgresql-plain-wordmark m-3"></i>
 
-                                        <img src="/pics/api.svg"  width="60" height="60" alt="" class="mb-5 i" />
+                                        <img src="pics/api.svg"  width="60" height="60" alt="" class="mb-5 i" />
 
                                         <i class="fab devicon-git-plain-wordmark colored"></i>
                         
@@ -71,7 +71,7 @@ function About() {
                                                 
                                         <i class="fab devicon-slack-plain "></i>
                                                 
-                                        <img src="/pics/sandbox.svg"  width="60" height="60" alt="" class="mb-5  i" />
+                                        <img src="pics/sandbox.svg"  width="60" height="60" alt="" class="mb-5  i" />
                                 </div>
                         </div>
                 </div>

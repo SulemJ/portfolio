@@ -10,7 +10,7 @@ function Project (params) {
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="/pics/makeup.png" alt="" />
+            <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/makeup.png" alt="" />
              <div class="card-body">
               <p class="card-text">
               An elegant platform that offers product recommendations of over 1000 products to help users explore makeup products.
@@ -20,7 +20,7 @@ function Project (params) {
               <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
               <i class="fab devicon-photoshop-plain colored m-2"></i>
               <i class=" fab devicon-express-original colored m-2"></i>
-              <img width={50} class="mb-5" src="/pics/api.svg" alt="" />
+              <img width={50} class="mb-5" src="pics/api.svg" alt="" />
               <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
               </div>
               <div class="d-flex justify-content-between align-items-center">
@@ -32,13 +32,13 @@ function Project (params) {
         </div>
         <div class="col">
           <div class="card shadow-sm">
-          <img src="/pics/bookreview.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> <div class="card-body">
+          <img src="pics/bookreview.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> <div class="card-body">
               <p class="card-text">A space dedicated to literature enthusiasts, allows users to explore, review, and discuss novels from various genres.</p>
               <div class="icons ">
               <i class="fab devicon-css3-plain-wordmark colored m-2"></i>
               <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
               <i class="fab devicon-postgresql-plain-wordmark colored m-2"></i>
-              <img width={50} class="mb-5 " src="/pics/api.svg" alt="" />
+              <img width={50} class="mb-5 " src="pics/api.svg" alt="" />
               <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
               <i class="fab devicon-express-original colored m-2"></i>
               </div>
@@ -51,7 +51,7 @@ function Project (params) {
         </div>
         <div class="col">
           <div class="card shadow-sm">
-          <img src="/pics/blog.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
+          <img src="pics/blog.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A dynamic blog platform With a simple and user-friendly design where users share their thoughts, ideas, and experiences. </p>
               <div class="icons ">
@@ -59,7 +59,7 @@ function Project (params) {
               <i class="fab devicon-javascript-plain colored m-2 "></i>
               <i class="fab devicon-bootstrap-plain-wordmark colored m-2 "></i>
               <i class="fab devicon-nodejs-plain-wordmark colored m-2 "></i>
-              <img width={45}  class="mb-5 " src="/pics/ejs.svg" alt="" />
+              <img width={45}  class="mb-5 " src="pics/ejs.svg" alt="" />
               <i class="fab devicon-express-original colored m-2 "></i>
               </div>
               <div class="d-flex justify-content-between align-items-center">
