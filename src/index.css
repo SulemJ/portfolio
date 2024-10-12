@@ -85,6 +85,8 @@ text-decoration: none;
   .contact{
     margin: auto;
     width: 50%;
+    align-items: center;
+    justify-content: center;
   }
 /* Make icons responsive */
 @media (max-width: 768px) {
