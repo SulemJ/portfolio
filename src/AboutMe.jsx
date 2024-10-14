@@ -37,6 +37,8 @@ function About() {
                         
                                         <img src="pics/ejs.svg"   width="50" height="60" alt="" class="mb-4 pb-2 i" />
 
+                                        <i class="fab devicon-vite-original-wordmark"></i>
+
                                         <i class="fab devicon-postgresql-plain-wordmark m-3"></i>
 
                                         <img src="pics/api.svg"  width="60" height="60" alt="" class="mb-5 i" />
@@ -54,7 +56,7 @@ function About() {
                                         <i class="fab devicon-axios-plain-wordmark "></i>
                                         
                                         <i class="fab devicon-babel-plain colored"></i>
-                                        
+          
                                         <i class="fab devicon-bash-plain "></i>
 
                                         <i class="fab devicon-eclipse-plain-wordmark "></i>
