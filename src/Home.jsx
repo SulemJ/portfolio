@@ -9,7 +9,7 @@ import React from "react";
                <p>Developer and Designer</p>
             </div>
             <div class=" col-md-5 col-xl-5 col-sm-6 f ">
-                <img src="pics/2.png" alt="" class="mt-1 bg" />
+                <img src="pics/bg.png" alt="" class="mt-1 bg" />
             </div>
         </div>
        </div> 
