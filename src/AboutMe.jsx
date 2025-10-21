@@ -5,7 +5,7 @@ function About() {
                 <p class="p-5 pb-0 center">A little about me</p>
                 <div  class=" container"  >
                         <div class=" me">
-                                <h3 class="mb-3"><span class="grad">🎓</span>✧˖° A senior Computer Engineering student at Hawassa University, Ethiopia.</h3>
+                                <h3 class="mb-3"><span class="grad">🎓</span>✧˖° A recent electrical and computer engineering grad from hawassa University, Ethiopia</h3>
                                 <h3 class="mb-3">💻✧˖° Love learning new technologies and continuously improving my skills.</h3>
                                 <h3 class="mb-5"> 𖠋𖠋✧˖° An active volunteer and possess excellent social and soft skills.</h3>
                                 
