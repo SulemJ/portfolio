@@ -12,15 +12,15 @@ function Project (params) {
             <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/door.png" alt="" />
              <div class="card-body">
               <p class="card-text">
-              A web application that connects users with verified service providers for various home and technical services. It allows users to post jobs, service providers to register and apply for tasks, and admins to manage registrations and approvals.
+              A web app that allows users to post jobs, service providers to register & apply for tasks; admins to manage registrations & approvals.
               </p>
               <div class="icons ">
               <i class="fab devicon-css3-plain-wordmark colored m-2"></i>
+              <img width={50} class="mb-5 " src="pics/ejs.svg" alt="" />
               <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
-              <i class="fab devicon-photoshop-plain colored m-2"></i>
-              <i class=" fab devicon-express-original colored m-2"></i>
-              <img width={50} class="mb-5" src="pics/api.png" alt="" />
+              <i class="fab devicon-postgresql-plain-wordmark colored m-2"></i>
               <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
+              <i class="fab devicon-express-original colored m-2"></i>
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group"> </div>
@@ -39,10 +39,9 @@ function Project (params) {
               <div class="icons ">
               <i class="fab devicon-css3-plain-wordmark colored m-2"></i>
               <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
-              <i class="fab devicon-photoshop-plain colored m-2"></i>
-              <i class=" fab devicon-express-original colored m-2"></i>
-              <img width={50} class="mb-5" src="pics/api.svg" alt="" />
+              <img width={50} class="mb-5 " src="pics/api.svg" alt="" />
               <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
+              <i class="fab devicon-express-original colored m-2"></i>
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group"> </div>
