@@ -9,7 +9,7 @@ function Project (params) {
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/makeup.png" alt="" />
+            <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/door.png" alt="" />
              <div class="card-body">
               <p class="card-text">
               A web application that connects users with verified service providers for various home and technical services. It allows users to post jobs, service providers to register and apply for tasks, and admins to manage registrations and approvals.
@@ -19,7 +19,7 @@ function Project (params) {
               <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
               <i class="fab devicon-photoshop-plain colored m-2"></i>
               <i class=" fab devicon-express-original colored m-2"></i>
-              <img width={50} class="mb-5" src="pics/door.png" alt="" />
+              <img width={50} class="mb-5" src="pics/api.png" alt="" />
               <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
               </div>
               <div class="d-flex justify-content-between align-items-center">
