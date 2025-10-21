@@ -6,8 +6,29 @@ function Project (params) {
     <p class="p-5 pb-3  center">My Projects</p>
    <div class="album py-5 ">
     <div >
-
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/makeup.png" alt="" />
+             <div class="card-body">
+              <p class="card-text">
+              A web application that connects users with verified service providers for various home and technical services. It allows users to post jobs, service providers to register and apply for tasks, and admins to manage registrations and approvals.
+              </p>
+              <div class="icons ">
+              <i class="fab devicon-css3-plain-wordmark colored m-2"></i>
+              <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
+              <i class="fab devicon-photoshop-plain colored m-2"></i>
+              <i class=" fab devicon-express-original colored m-2"></i>
+              <img width={50} class="mb-5" src="pics/door.png" alt="" />
+              <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
+              </div>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group"> </div>
+                  <a href="https://door-to-door-service-system-1.onrender.com/" target="_blank"> <button type="button" class="btn btn-lg btn-outline-secondary">View Site</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
         <div class="col">
           <div class="card shadow-sm">
             <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/makeup.png" alt="" />
