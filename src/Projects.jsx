@@ -71,6 +71,27 @@ function Project (params) {
         </div>
         <div class="col">
           <div class="card shadow-sm">
+            <img class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" src="pics/store.png" alt="" />
+             <div class="card-body">
+              <p class="card-text">
+             A simple app where users can browse items, product details, and experience clean UI that simulates a real e-commerce app.</p>
+              <div class="icons ">
+              <i class="fab devicon-react-original-wordmark colored"></i>
+
+              <i class="fab devicon-bootstrap-plain-wordmark colored m-2"></i>
+              <img width={50} class="mb-4 " src="pics/api.svg" alt="" />
+              <i class="fab devicon-nodejs-plain-wordmark colored m-2"></i>
+              <i class="fab devicon-express-original colored m-2"></i>
+              </div>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group"> </div>
+                <a href="https://online-store-idzf.onrender.com/" target="_blank"> <button type="button" class="btn btn-lg btn-outline-secondary">View Site</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
           <img src="pics/blog.png" class="bd-placeholder-img card-img-top" role="img" width="100%" height="225" alt="" /> 
           <div class="card-body">
               <p class="card-text">A dynamic blog platform With a simple and user-friendly design where users share their thoughts, ideas, and experiences. </p>
